@@ -13,7 +13,7 @@ int main()
 		//Read user action
 		ActType = AppManager.GetUserAction();
 
-		//Execute the action
+		//Exexute the action
 		AppManager.ExecuteAction(ActType);
 
 		//Update the interface
