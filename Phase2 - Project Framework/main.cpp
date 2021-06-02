@@ -1,6 +1,6 @@
 #include "ApplicationManager.h"
 
-
+//t3del mo2kat
 int main()
 {
 
